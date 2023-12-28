@@ -1,4 +1,7 @@
 # GifsApp
+Author: Ing. Emerson Cabrera https://emersoncabrera.com
+
+Application created from Fernando Herrera's Angular course on Udemy.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
